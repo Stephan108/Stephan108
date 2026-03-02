@@ -4,15 +4,13 @@
 
 - 🧱 Focus: .NET / SQL Server / Angular
 - 🧩 Building: ORTHOS (portfolio of subscription tools)
-- 🛠️ Currently: Municipal + workflow systems, offline-first mobile tooling
+- 🛠️ Currently:
 - 📍 South Africa
 
 ---
 
 ## What I’m working on
 
-- **Credit Control**: notices, jobcards, field-worker mobile capture, device enrollment
-- **Indigent portal**: self-capture + admin workflow tooling
 - **ORTHOS**: a parent brand for a suite of focused business apps
 
 ---
